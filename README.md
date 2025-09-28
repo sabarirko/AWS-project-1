@@ -15,8 +15,7 @@ The solution uses **EC2 Auto Scaling** for the web tier and **Amazon RDS** for t
 ---
 
 ## ⚙️ Architecture
-![Architecture Diagram](screenshots/architecture.png)  
-*(Replace with your AWS High Availability architecture diagram)*  
+![Architecture Diagram](screenshots/aws_high_availability_webapps.png)
 
 ---
 
