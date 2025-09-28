@@ -15,7 +15,7 @@ The solution uses **EC2 Auto Scaling** for the web tier and **Amazon RDS** for t
 ---
 
 ## ⚙️ Architecture
-![Architecture Diagram](screenshots/aws_high_availability_webapps.png)
+![Architecture Diagram](screenshots/aws_high_availability_webapp.png)
 
 ---
 
