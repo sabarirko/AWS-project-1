@@ -42,5 +42,12 @@ The solution uses **EC2 Auto Scaling** for the web tier and **Amazon RDS** for t
 
 5. **Security Groups**
    - Allowed HTTP/HTTPS traffic to EC2 instances.  
-   - Allowed only internal EC2 → RDS communication. 
+   - Allowed only internal EC2 → RDS communication.
+
+---
+
+## ✅ Outcomes
+- Highly available **web application** using EC2 Auto Scaling.  
+- **Database decoupling** with Amazon RDS.  
+- **Scalable and fault-tolerant** architecture using AWS native services.
 
